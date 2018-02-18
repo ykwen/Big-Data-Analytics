@@ -1,3 +1,5 @@
 # Breast Cancer
-This program using Breast Cancer dataset from kaggle. First do the data cleaning and then choose different algorithms, features and classes to do classification and prediction. The output is the accuracy of the prediction.
+This program using Breast Cancer dataset from kaggle. First do the data cleaning and then choose different algorithms, features and classes to do classification and prediction. The output is the accuracy of the prediction.  
+  
+The dataset link is:  
 https://www.kaggle.com/piotrgrabo/breastcancerproteomes
